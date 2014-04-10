@@ -1,0 +1,37 @@
+#container {
+    
+    text-align:center;
+    width: 715px;
+    height: 325px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#leftSide {
+    width: 40%;
+    float: left;
+    border-color: #888888;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#buttons {
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-top: 120px;
+}
+
+#buttons input {
+    margin: 10px;
+}
+
+
+#rightSide {
+    width: 40%;
+    float: left;
+    border-color: #888888;
+    border-width: 1px;
+    border-style: solid;
+}
